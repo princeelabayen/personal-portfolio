@@ -1,0 +1,23 @@
+aside {
+  display: none;
+}
+h1 {
+	text-align: center;
+	color: #ffffff;
+	text-transform: uppercase;
+}
+h2 {
+	color: #3333cc;
+	text-transform: uppercase;
+}
+header {
+	background-color: #a6a6a6;
+	padding: 25px;
+}
+main {
+	background-color: #808080;
+	padding: 25px;
+}
+a {
+	background-color: #b3b3b3;
+}
